@@ -4,6 +4,10 @@ Drive link -- https://drive.google.com/drive/folders/1icTk0YIHgNw2uLz_dnfchfMH8q
 
 streamlit app is available
 
+Pose estimation and recognition
+
+-- need to improve
+
 
 
  
